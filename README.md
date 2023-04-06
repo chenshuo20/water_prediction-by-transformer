@@ -34,7 +34,7 @@ $\text{PE}$ represents the position encoding matrix.
 
 And the model is transformer.
 
-<img src='/home/chenshuo/cs/water_pre/transformer.jpg'>
+<img src='./transformer.jpg'>
 
 ## Requirment
 
@@ -65,4 +65,4 @@ And you will get the result figure `./output.png`. Also, the output data can be 
 I also provide my trained file `model.pth`, and you can directly run the `predict.py` can get the result.
 
 ## Result
-<img src=/home/chenshuo/cs/water_pre/output.png>
+<img src=./output.png>
