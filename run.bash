@@ -1,0 +1,1 @@
+python train.py --num_epochs 10 --training_set_ratio 0.8 --num_sequences 1000 --sequence_length 100 --batch_size 32 --predict_length 12 --data_path ./Data.csv --gpu_id 0
